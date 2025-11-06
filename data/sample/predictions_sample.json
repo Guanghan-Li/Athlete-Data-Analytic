@@ -1,0 +1,80 @@
+{
+  "2024-06-01": {
+    "final_grouped_score": 72.4,
+    "overall_team_score": 70.8,
+    "individual_predictions": {
+      "101": {
+        "alias": "Forward A",
+        "position": "F",
+        "predicted_score": 74.5
+      },
+      "203": {
+        "alias": "Midfielder B",
+        "position": "M",
+        "predicted_score": 71.2
+      },
+      "305": {
+        "alias": "Defender C",
+        "position": "D",
+        "predicted_score": 69.9
+      },
+      "407": {
+        "alias": "Goalkeeper D",
+        "position": "GK",
+        "predicted_score": 68.5
+      }
+    }
+  },
+  "2024-06-02": {
+    "final_grouped_score": 74.1,
+    "overall_team_score": 72.6,
+    "individual_predictions": {
+      "101": {
+        "alias": "Forward A",
+        "position": "F",
+        "predicted_score": 77.8
+      },
+      "203": {
+        "alias": "Midfielder B",
+        "position": "M",
+        "predicted_score": 72.4
+      },
+      "305": {
+        "alias": "Defender C",
+        "position": "D",
+        "predicted_score": 70.1
+      },
+      "407": {
+        "alias": "Goalkeeper D",
+        "position": "GK",
+        "predicted_score": 69.0
+      }
+    }
+  },
+  "2024-06-03": {
+    "final_grouped_score": 75.5,
+    "overall_team_score": 73.9,
+    "individual_predictions": {
+      "101": {
+        "alias": "Forward A",
+        "position": "F",
+        "predicted_score": 78.9
+      },
+      "203": {
+        "alias": "Midfielder B",
+        "position": "M",
+        "predicted_score": 73.0
+      },
+      "305": {
+        "alias": "Defender C",
+        "position": "D",
+        "predicted_score": 71.5
+      },
+      "407": {
+        "alias": "Goalkeeper D",
+        "position": "GK",
+        "predicted_score": 69.7
+      }
+    }
+  }
+}
